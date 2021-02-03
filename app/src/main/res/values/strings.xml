@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">dropblock</string>
+    <string name="instructions_string" />
+    <string name="gesture1_string" />
+    <string name="gesture2_string" />
+    <string name="gesture3_string" />
+    <string name="gesture4_string" />
+    <string name="gesture5_string" />
+    <string name="gesture6_string" />
+    <string name="gestureeffect1_string" />
+    <string name="gestureeffect2_string" />
+    <string name="gestureeffect3_string" />
+    <string name="gestureeffect4_string" />
+    <string name="gestureeffect5_string" />
+    <string name="gestureeffect6_string" />
+    <string name="developers_string" />
+    <string name="developer1_string" />
+    <string name="developer2_string" />
+    <string name="game_score_string" />
+    <string name="game_over_textview_string" />
+    <string name="game_over_textview_string2" />
+    <string name="high_scores_string" />
+    <string name="set_properties_highscores_button_text" />
+    <string name="todo">TODO</string>
+    <string name="welcome_string" />
+    <string name="new_game_button_text" />
+    <string name="high_scores_button_text" />
+    <string name="settings_button_text" />
+    <string name="about_button_text" />
+    <string name="action_settings" />
+</resources>
